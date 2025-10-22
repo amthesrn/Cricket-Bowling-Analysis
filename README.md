@@ -41,9 +41,11 @@ Unlike typical T20 bowlers, Bumrah maintains **elite performance across ALL phas
 MI_json/
 │
 ├── JB.ipynb                    # Main analysis notebook
-├── README_JB.md               # This file
-├── *.json                     # 277 match data files (Cricsheet format)
-└── README.txt                 # Data source documentation
+├── requirements.txt            # required libraries to install
+├── README.md                   # This file
+└──data
+     ├──  *.json                # 277 match data json files (Cricsheet format)
+     └── README.txt                 # Data source documentation
 ```
 
 ---
