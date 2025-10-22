@@ -39,7 +39,7 @@ MI_json/
 ├── requiremnets.txt                # required libraries to install 
 ├── data
      ├──data.zip                    # 277 match data json files (Cricsheet format)
-     └── README.txt                 # Data source documentation
+     └── Readme.txt                 # Data source documentation
 ```
 
 ---
@@ -554,6 +554,7 @@ For questions, suggestions, or collaboration:
 **ML Models**: K-Means clustering with PCA
 
 ---
+
 
 
 
