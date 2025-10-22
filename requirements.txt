@@ -1,0 +1,21 @@
+# JJ Bumrah Bowling Analysis - Python Dependencies
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Jupyter
+jupyter>=1.0.0
+ipython>=8.12.0
+
+# Optional (for enhanced features)
+# plotly>=5.14.0  # For interactive visualizations
+# prophet>=1.1.0  # For time series forecasting (if implementing)
+
